@@ -1,0 +1,20 @@
+{
+  "name": "expressionspad",
+  "version": "1.0.0",
+  "description": "For Eric from Anton :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon index.js"
+  },
+  "keywords": [],
+  "author": "antonbrams",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "midi": "^0.9.5",
+    "serialport": "^6.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
